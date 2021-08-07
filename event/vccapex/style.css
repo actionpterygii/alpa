@@ -1,0 +1,76 @@
+body {
+    background-color: #333;
+    color: #fff;
+    margin: 12px;
+    font-family: sans-serif;
+}
+
+.wrap {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+header {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #3cc;
+    line-height: 38px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+aside {
+    font-size: 12px;
+}
+
+a {
+    color: #f9f;
+    display: block;
+}
+
+.title {
+    font-size: 30px;
+    color: #3cc;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.organizer {
+    font-size: 16px;
+}
+
+.team_name {
+    color: #3cc;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.member_name {
+    color: #ff6;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.stream_embed {
+    width: inherit;
+    text-align: center;
+}
+
+.stream_enbed iframe {
+    width: inherit;
+}
+
+.stream_url {
+    text-align: center;
+}
+
+.stream_notExist {
+    font-size: 12px;
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
