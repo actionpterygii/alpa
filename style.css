@@ -49,14 +49,27 @@ a {
 
 .team {
     border: solid 1px #3cc;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 10px;
+    position: relative;
 }
 
 .team_name {
     color: #3cc;
     font-size: 25px;
     font-weight: bold;
+}
+
+.team_tag {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    padding: 5px 7px;
+    color: #ff6;
+    background-color: #3cc;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 0px 10px 0px 10px;
 }
 
 .member_name {
