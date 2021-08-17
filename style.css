@@ -40,12 +40,23 @@ a {
     font-size: 16px;
 }
 
-.honhaishin,
-.team_name {
+.honhaishin {
     color: #3cc;
     font-size: 25px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+.team {
+    border: solid 1px #3cc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.team_name {
+    color: #3cc;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 .member_name {
