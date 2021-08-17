@@ -26,7 +26,6 @@ aside {
 
 a {
     color: #f9f;
-    display: block;
 }
 
 .title {
@@ -65,7 +64,7 @@ a {
     width: inherit;
 }
 
-.stream_url {
+.stream {
     text-align: center;
 }
 
