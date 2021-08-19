@@ -31,6 +31,7 @@ a {
 /* おまえなぁ */
 header a {
     color: #3cc;
+    text-decoration: none;
 }
 
 .title {
