@@ -28,6 +28,10 @@ a {
     color: #f9f;
 }
 
+a.event_link {
+    display: block;
+}
+
 /* おまえなぁ */
 header a {
     color: #3cc;
