@@ -28,6 +28,11 @@ a {
     color: #f9f;
 }
 
+/* おまえなぁ */
+header a {
+    color: #3cc;
+}
+
 .title {
     font-size: 30px;
     color: #3cc;
